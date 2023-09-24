@@ -1,2 +1,1 @@
-# Quikr_Analysis
-as part of my internship at Internpe the task was to analyze quikr car dataset 
+"During my Internpe internship, I undertook an extensive analysis of the Quikr car dataset. This task involved data interpretation and trend discovery, contributing to market insights. 
